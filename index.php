@@ -9,6 +9,12 @@
   <body>
 
    <h1>Header</h1>
+   <?php
+   $a = 564;
+   $b = 200;
+   $c = ($b*$a)/2;
+   echo ( $c);
+   ?>
 
    <img src="imagenes/increibles.png" width="100px"/>
 
